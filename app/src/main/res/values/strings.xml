@@ -1,0 +1,119 @@
+<resources>
+    <string name="app_name">GHOST BEST SONGS</string>
+    <string name="country_prompt">Choose a band</string>
+    <string name="square_hammer_ghost">
+        Living in the night\n
+        \'Neath devils torn asunder\n
+        You call on me to solve a crooked rhyme\n
+        As I\'m closing in\n
+        Imposing on your slumber\n
+        You call on me as bells begin to chime\n
+        Are you on the square?\n
+        Are you on the level?\n
+        Are you ready to swear right here, right now\n
+        Before the devil\n
+        That you\'re on the square\n
+        That you\'re on the level\n
+        That you\'re ready to stand right here, right now\n
+        Right here, right now\n
+        Hiding from the light\n
+        Sacrificing nothing \n
+        Still you call on me for entrance to the shrine \n
+        Hammering the nails \n
+        Into a sacred coffin \n
+        You call on me for powers clandestine\n
+        Are you on the square?\n
+        Are you on the level?\n
+        Are you ready to swear right here, right now\n
+        Before the devil\n
+        That you're on the square\n
+        That you're on the level\n
+        That you're…\n
+    </string>
+    <string name="cirice_ghost">
+        I feel your presence amongst us\n
+You cannot hide in the darkness\n
+Can you hear the rumble?\n
+Can you hear the rumble that\'s calling?\n
+I know your soul is not tainted\n
+Even though you\'ve been told so\n
+Can you hear the rumble?\n
+Can you? I can hear the rumble that\'s calling?\n
+I can feel the thunder that\'s breaking in your heart\n
+I can see through the scars inside you\n
+I can feel the thunder that\'s breaking in your heart\n
+I can see through the scars inside you\n
+A candle casting a faint glow\n
+You and I see eye to eye\n
+Can you hear the thunder?\n
+Can you hear the thunder that's breaking?\n
+Now there is nothing between us\n
+From now our merge is eternal\n
+Can\'t you see that you're lost?\n
+Can\'t you see that you're lost without me?\n
+I can feel the thunder that's breaking in your heart\n
+I can…\n
+    </string>
+    <string-array name="ghostSongsItem">
+        <item>1. Square Hammer -> Popestar (2016)</item>
+        <item>2. Cirice -> Meliora (2015)</item>
+        <item>3. Year Zero -> Infestissumam (2013)</item>
+        <item>4. Ritual -> Opus Eponymous (2010)</item>
+        <item>5. Rats -> Prequelle (2018)</item>
+        <item>6. He Is -> Meliora (2015)</item>
+        <item>7. Ghuleh / Zombie Queen -> Infestissumam (2013)</item>
+        <item>8. Elizabeth -> Opus Eponymous (2010)</item>
+        <item>9. Monstrance Clock -> Infestissumam (2013)</item>
+        <item>10. Stand by Him -> Opus Eponymous (2010)</item>
+    </string-array>
+    <string-array name="immortalSongsItem">
+        <item>One by One</item>
+        <item>All Shall Fall</item>
+        <item>Tyrants</item>
+        <item>Withstand the Fall of Time</item>
+        <item>The Sun No Longer Rises</item>
+        <item>Solarfall</item>
+        <item>Blashyrkh (Mighty Ravendark)</item>
+        <item>At the Heart of Winter</item>
+        <item>Beyond the North Waves</item>
+        <item>Sons of Northern Darkness</item>
+    </string-array>
+    <string-array name="burzumSongsItem">
+        <item>Dunkelheit</item>
+        <item>Det Som en Gang Var</item>
+        <item>Jesus' Tod</item>
+        <item>Key to the Gate</item>
+        <item>Lost Wisdom</item>
+        <item>My Journey to the Stars</item>
+        <item>Feeble Screams from Forests Unknown</item>
+        <item>A Lost Forgotten Sad Spirit</item>
+        <item>En Ring Til Aa Herske</item>
+        <item>The Reckoning of Man</item>
+    </string-array>
+    <string-array name="bathorySongsItem">
+        <item>A Fine Day to Die</item>
+        <item>Enter the Eternal Fire</item>
+        <item>One Rode to Asa Bay</item>
+        <item>Shores in Flames</item>
+        <item>Blood Fire Death</item>
+        <item>Equimanthorn</item>
+        <item>The Wheel of Sun</item>
+        <item>Call from the Grave</item>
+        <item>Dies Irae</item>
+        <item>The Golden Walls of Heaven</item>
+    </string-array>
+    <string-array name="band">
+        <item>Choose a band</item>
+        <item>GHOST</item>
+        <item>IMMORTAL</item>
+        <item>BURZUM</item>
+        <item>BATHORY</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <item name="btLog" type="id"/>
+</resources>
